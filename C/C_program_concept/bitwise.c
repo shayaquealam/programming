@@ -237,7 +237,7 @@ int main()
     
     // swap_two_number(a,b);
 
-    swap_only_bit(no,7,1);
+    //swap_only_bit(no,7,1);
 
     // change_last_byte(0x12345678);
 
